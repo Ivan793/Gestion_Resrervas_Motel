@@ -1,0 +1,6 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\bin\Debug\Entity.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\bin\Debug\Entity.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\obj\Debug\Entity.dll
+C:\Users\USUARIO\OneDrive\Escritorio\Semestre 4\Programación3 Jairo Patiño\Gestion_Reservas_Motel\Entity\obj\Debug\Entity.pdb

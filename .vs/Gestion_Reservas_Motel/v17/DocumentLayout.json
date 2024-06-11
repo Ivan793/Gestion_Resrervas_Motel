@@ -1,0 +1,539 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\gestion_reservas_motel\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\gestion_reservas_motel\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\gestion_reservas_motel\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\dall\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\dall\\reservasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\reservasdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\dall\\habitaciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\habitaciondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\dall\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\clientedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\dall\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\categoriadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\reservasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\reservasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\gestion_reservas_motel\\habitaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\habitaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\dall\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012B6BD0-3D23-4DF0-B32E-032B120122F5}|DALL\\DALL.csproj|solutionrelative:dall\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\bll\\logicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|solutionrelative:bll\\logicausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\bll\\logicareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|solutionrelative:bll\\logicareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\bll\\logicahabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|solutionrelative:bll\\logicahabitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\bll\\logicacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|solutionrelative:bll\\logicacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|c:\\users\\usuario\\onedrive\\escritorio\\semestre 4\\programaci\u00F3n3 jairo pati\u00F1o\\gestion_reservas_motel\\bll\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167814E0-FD3F-440E-A6F1-C7F32F032E01}|BLL\\BLL.csproj|solutionrelative:bll\\logicacategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|solutionrelative:entity\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|solutionrelative:entity\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\entity\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|solutionrelative:entity\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\entity\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|solutionrelative:entity\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\habitaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\habitaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D577EE1-FBD5-46D8-9A99-890BE50BBA9E}|Entity\\Entity.csproj|solutionrelative:entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\gestion_reservas_motel\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BD33FC-19EE-4C8D-9007-224D9538687F}|Gestion_Reservas_Motel\\Presentacion.csproj|solutionrelative:gestion_reservas_motel\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Reservas.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Reservas.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Reservas.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Reservas.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwJcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:47:36.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Reservas.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Reservas.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Reservas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Reservas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:47:32.797Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Clientes.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Clientes.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Clientes.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Clientes.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAqwJIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:55:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Habitaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Habitaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:33:10.509Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:34:57.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Usuarios.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Usuarios.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAxwGMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T23:52:10.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Clientes.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Clientes.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:08:12.677Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categorias.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Categorias.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Categorias.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Categorias.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Categorias.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAkwJUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:48:37.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Habitaciones.cs",
+              "ViewState": "AQIAAOkAAAAAAAAAAAAmwJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categorias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Categorias.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Categorias.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Categorias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Categorias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:36:30.254Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "DALL\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\UsuarioData.cs",
+              "RelativeToolTip": "DALL\\UsuarioData.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAA4wA4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:41:32.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReservasData.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ReservasData.cs",
+              "RelativeDocumentMoniker": "DALL\\ReservasData.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ReservasData.cs",
+              "RelativeToolTip": "DALL\\ReservasData.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:32:43.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HabitacionData.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\HabitacionData.cs",
+              "RelativeDocumentMoniker": "DALL\\HabitacionData.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\HabitacionData.cs",
+              "RelativeToolTip": "DALL\\HabitacionData.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAuwIEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T20:31:01.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteData.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ClienteData.cs",
+              "RelativeDocumentMoniker": "DALL\\ClienteData.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ClienteData.cs",
+              "RelativeToolTip": "DALL\\ClienteData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:27:35.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaData.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\CategoriaData.cs",
+              "RelativeDocumentMoniker": "DALL\\CategoriaData.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\CategoriaData.cs",
+              "RelativeToolTip": "DALL\\CategoriaData.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAIwHgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:37:18.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\ReservasDTO.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\ReservasDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\ReservasDTO.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\ReservasDTO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:36:49.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HabitacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\HabitacionDTO.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\HabitacionDTO.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\HabitacionDTO.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\HabitacionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:42:59.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "DALL\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\DALL\\ConexionBD.cs",
+              "RelativeToolTip": "DALL\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:40:36.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogicaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaUsuario.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicaUsuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaUsuario.cs",
+              "RelativeToolTip": "BLL\\LogicaUsuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:36:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogicaHabitacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaHabitacion.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicaHabitacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaHabitacion.cs",
+              "RelativeToolTip": "BLL\\LogicaHabitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:35:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LogicaCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaCategoria.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicaCategoria.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaCategoria.cs",
+              "RelativeToolTip": "BLL\\LogicaCategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:34:13.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogicaReserva.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaReserva.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicaReserva.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaReserva.cs",
+              "RelativeToolTip": "BLL\\LogicaReserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:32:22.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogicaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaCliente.cs",
+              "RelativeDocumentMoniker": "BLL\\LogicaCliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\BLL\\LogicaCliente.cs",
+              "RelativeToolTip": "BLL\\LogicaCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:30:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entity\\Cliente.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Cliente.cs",
+              "RelativeToolTip": "Entity\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:47:43.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Program.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Program.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Program.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:01:43.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Categoria.cs",
+              "RelativeDocumentMoniker": "Entity\\Categoria.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Categoria.cs",
+              "RelativeToolTip": "Entity\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:30:06.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Reserva.cs",
+              "RelativeDocumentMoniker": "Entity\\Reserva.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Reserva.cs",
+              "RelativeToolTip": "Entity\\Reserva.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T18:45:12.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Habitacion.cs",
+              "RelativeDocumentMoniker": "Entity\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Habitacion.cs",
+              "RelativeToolTip": "Entity\\Habitacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:18:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Habitaciones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.Designer.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Habitaciones.Designer.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Habitaciones.Designer.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Habitaciones.Designer.cs",
+              "ViewState": "AQIAADABAAAAAAAAAAAhwDsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:28:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Entity\\Usuario.cs",
+              "RelativeToolTip": "Entity\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:50:02.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Splash.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Splash.cs",
+              "RelativeDocumentMoniker": "Gestion_Reservas_Motel\\Splash.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Semestre 4\\Programaci\u00F3n3 Jairo Pati\u00F1o\\Gestion_Reservas_Motel\\Gestion_Reservas_Motel\\Splash.cs",
+              "RelativeToolTip": "Gestion_Reservas_Motel\\Splash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:00:03.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
